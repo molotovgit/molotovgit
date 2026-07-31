@@ -29,3 +29,8 @@ jobs:
           config_timezone: Asia/Tashkent
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          # empty calendar cells default to #ebedf0 (near-white) which glares
+          # against a dark profile — use GitHub's own dark-mode cell colour
+          extras_css: |
+            [fill="#ebedf0"] { fill: #161b22; }
+            :root { --color-calendar-graph-day-bg: #161b22; }
