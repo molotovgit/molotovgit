@@ -5,3 +5,5 @@ Mostly systems work — an Android port of a 2003 RTS, education platform backen
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/molotovgit/molotovgit/output/snake.svg">
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/molotovgit/molotovgit/output/snake.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/molotovgit/molotovgit/main/github-metrics.svg" alt="metrics" width="480">
